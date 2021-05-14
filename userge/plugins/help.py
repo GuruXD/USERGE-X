@@ -57,9 +57,8 @@ _CATEGORY = {
 # Database
 SAVED_SETTINGS = get_collection("CONFIGS")
 REPO_X = InlineQueryResultArticle(
-    title="Repo",
+    title="Go Away",
     input_message_content=InputTextMessageContent("**You Can't Access This** "),
-    url="https://github.com/code-rgb/USERGE-X",
     description="You Can't access This",
     thumb_url="https://telegra.ph/file/69e1442927cd2dddb6ef6.jpg",
     reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton("Go Away", url="https://github.com/code-rgb/USERGE-X")]]),
