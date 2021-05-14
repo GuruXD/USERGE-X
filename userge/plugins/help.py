@@ -58,26 +58,11 @@ _CATEGORY = {
 SAVED_SETTINGS = get_collection("CONFIGS")
 REPO_X = InlineQueryResultArticle(
     title="Repo",
-    input_message_content=InputTextMessageContent("**Here's how to setup USERGE-X** "),
+    input_message_content=InputTextMessageContent("**You Can't Access This** "),
     url="https://github.com/code-rgb/USERGE-X",
-    description="Setup Your Own",
-    thumb_url="https://i.imgur.com/1xsOo9o.png",
-    reply_markup=InlineKeyboardMarkup(
-        [
-            [
-                InlineKeyboardButton(
-                    "🔥 USERGE-X Repo", url="https://github.com/code-rgb/USERGE-X"
-                ),
-                InlineKeyboardButton(
-                    "🚀 Deploy USERGE-X",
-                    url=(
-                        "https://heroku.com/deploy?template="
-                        "https://github.com/code-pms/MyGpack"
-                    ),
-                ),
-            ]
-        ]
-    ),
+    description="You Can't access This",
+    thumb_url="https://telegra.ph/file/69e1442927cd2dddb6ef6.jpg",
+    reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton("Go Away", url="https://github.com/code-rgb/USERGE-X")]]),
 )
 
 
