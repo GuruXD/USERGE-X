@@ -61,7 +61,7 @@ REPO_X = InlineQueryResultArticle(
     input_message_content=InputTextMessageContent("**You Can't Access This** "),
     description="You Can't access This",
     thumb_url="https://telegra.ph/file/69e1442927cd2dddb6ef6.jpg",
-    reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton("Go Away", url="https://github.com/code-rgb/USERGE-X")]]),
+    reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton("Go Away", callback_data="add_to_grp")]]),
 )
 
 
