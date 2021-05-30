@@ -192,11 +192,11 @@ Nice To Meet You !, I'm <b>{bot_.fname}</b>.
             )
             btns = [
                 [
-                    InlineKeyboardButton("👤  CONTACT", url=contact_url),
+                    InlineKeyboardButton("", url=contact_url),
                  ]
             ]
         try:
-            await send_bot_media(message, start_msg)#, InlineKeyboardMarkup(btns))
+            await send_bot_media(message, start_msg, None)#InlineKeyboardMarkup(btns))
         except FloodWait as e:
             await asyncio.sleep(e.x + 10)
         except Exception as bpm_e:
