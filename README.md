@@ -1,16 +1,4 @@
-<h2 align="center"><b>Owner: <a href="https://telegram.dog/deleteduser420">𝚂𝚢𝚗𝚝𝚊𝚡 ░ Σrr♢r</a></b></h2>
-<br>
-<p align="center">
-</p>
-<h1>USERGE-X</h1>
-<b>Pluggable Telegram UserBot</b>
-
-<br>
-<br>
-
-
-[![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg?&style=flat-square)](https://github.com/code-rgb/USERGE-X#copyright--license)
-[![Stars](https://img.shields.io/github/stars/code-rgb/USERGE-X?&style=flat-square)](https://github.com/code-rgb/USERGE-X/stargazers)
+img.shields.io/github/stars/code-rgb/USERGE-X?&style=flat-square)](https://github.com/code-rgb/USERGE-X/stargazers)
 [![Forks](https://img.shields.io/github/forks/code-rgb/USERGE-X?&style=flat-square)](https://github.com/code-rgb/USERGE-X/network/members)
 [![Issues Open](https://img.shields.io/github/issues/code-rgb/USERGE-X?&style=flat-square)](https://github.com/code-rgb/USERGE-X/issues)
 [![Issues Closed](https://img.shields.io/github/issues-closed/code-rgb/USERGE-X?&style=flat-square)](https://github.com/code-rgb/USERGE-X/issues?q=is:closed)
